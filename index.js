@@ -7,8 +7,4 @@ module.exports = {name, height, message}
 console.log(message)
 //nodejs index.js
 var index = require("../index.js")
- describe('Name', () => {
-    it('returns "Susan"', () => {
-      expect(index.name).toEqual('Susan')
-    })
-  })
+ 
