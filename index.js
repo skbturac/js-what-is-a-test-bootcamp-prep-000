@@ -6,5 +6,5 @@ var message = `${name} is ${height} inches tall`
 module.exports = {name, height, message}
 console.log(message)
 //nodejs index.js
-var index = require("../index.js")
+
  
